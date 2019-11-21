@@ -32,7 +32,7 @@ fprintf('Gamma: %g\n',Gamma);                                               % Pr
 
 %% PLOTTING
 
-figure(1);                                                                  % Create figure
+figure(1);                                                                  % Create figurasdfe
 cla; hold on; grid off;                                                     % Get ready for plotting
 set(gcf,'Color','White');                                                   % Background color
 set(gca,'FontSize',12);                                                     % Font size
